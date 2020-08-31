@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://github.com/rivenirvana/rivenirvana/blob/master/dino.gif)
+![image](./dino.gif)
 
 <!--
 **rivenirvana/rivenirvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
