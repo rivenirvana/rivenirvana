@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/rivenirvana/github-readme-stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api?username=rivenirvana&count_private=true&show_icons=true&theme=tokyonight" width=460" height="180" alt="GitHub Stats" /></a>
-  <a href="https://github.com/rivenirvana/github-readme-stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api/top-langs?username=rivenirvana&layout=compact&theme=tokyonight" width="360" height="180" alt="Top Languages" /></a>
+  <a href="https://github.com/rivenirvana/github-readme-stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api/top-langs?username=rivenirvana&layout=compact&theme=tokyonight" width="370" height="180" alt="Top Languages" /></a>
 </p>
 
 ### About Me
