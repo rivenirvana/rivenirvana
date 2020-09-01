@@ -1,14 +1,10 @@
 <h1 align="center">Hallo 👋, I'm Arvin 👨‍💻</h1>
-<h3 align="center">~some relatable, inspiring, piece of text~</h3>
+<h3 align="center">~some relatable, inspiring, and motivational piece of text here~</h3>
 
-<div>
-  <div>
-    <img src="https://github-readme-stats.rivenirvana.vercel.app/api?username=rivenirvana&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.rivenirvana.vercel.app/api/top-langs?username=rivenirvana&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </div>
-</div>
+<p align="center">
+  <a href="https://github.com/rivenirvana/github-readme-stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api?username=rivenirvana&count_private=true&show_icons=true&theme=tokyonight" width=490" height="200" alt="GitHub Stats" /></a>
+  <a href="https://github.com/rivenirvana/github-readme-stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api/top-langs?username=rivenirvana&layout=compact&theme=tokyonight" width="390" height="200" alt="Top Languages" /></a>
+</p>
 
 ### About Me
 
@@ -26,8 +22,11 @@
   - **Discord**: [**Rhaziz**#7606](https://discordapp.com/users/524919078473826324)
 - ⚡ Fun fact: **1 kg of steel weighs the same as 1 kg of feathers**
 
-![dino](https://github.com/rivenirvana/rivenirvana/raw/master/img/dino.gif)
+<hr />
 
+<p align="center">
+  <img src="https://github.com/rivenirvana/rivenirvana/raw/master/img/dino.gif" alt="dino"/>
+</p>
 <!--
 **rivenirvana/rivenirvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
