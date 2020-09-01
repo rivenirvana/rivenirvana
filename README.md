@@ -1,11 +1,11 @@
 <h1 align="center">Hallo 👋, I'm Arvin 👨‍💻</h1>
 <h3 align="center">~some relatable, inspiring, piece of text~</h3>
 
-<div style="display: block; width: 100%; white-space: nowrap;">
-  <div style="display: inline-block; width: 50%;">
+<div>
+  <div>
     <img src="https://github-readme-stats.rivenirvana.vercel.app/api?username=rivenirvana&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </div>
-  <div style="display: inline-block; width: 50%;">
+  <div>
     <img src="https://github-readme-stats.rivenirvana.vercel.app/api/top-langs?username=rivenirvana&layout=compact&theme=tokyonight" alt="Top Languages" />
   </div>
 </div>
