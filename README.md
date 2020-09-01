@@ -8,19 +8,21 @@
   <a href="https://github.com/rivenirvana/github-readme-stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api/top-langs?username=rivenirvana&layout=compact&hide_border=true&theme=tokyonight" width="370" height="180" alt="top languages" /></a>
 </p>
 
-## About Me
+---
+
+### About Me
 
 - 👨‍💻 I’m currently 🔭 working on and 🌱 learning about:
   - Discord bots and non-blockable web scraping ([discord.js](https://discord.js.org/), [Selenium](https://www.selenium.dev/))
   - Superscaling images and game textures via machine learning ([ESRGAN](https://github.com/xinntao/ESRGAN), [BasicSR](https://github.com/xinntao/BasicSR))
   - Random open source projects
   - This _kewl_ [GitHub profile feature](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
-  - And everything in between
+  - And everything else in between
 - 📫 How to reach me:
   - **Gmail**: [acverain@up.edu.ph](mailto:acverain@up.edu.ph)
   - **ProtonMail**: [rive.nirvana@protonmail.com](mailto:rive.nirvana@protonmail.com)
   - **Discord**: [**Rhaziz**#7606](https://discordapp.com/users/524919078473826324)
-- ⚡ Fun facts:
+- ✨ Fun facts:
   - [**1 kg of steel weighs the same as 1 kg of feathers**](https://www.youtube.com/watch?v=uH0hikcwjIA)
   - My GitHub username is an anagram of my given name and surname
 
@@ -28,9 +30,11 @@
   <a href"#" title="rivenirvana"></a><img src="https://github.com/rivenirvana/rivenirvana/raw/master/img/anagram.gif" alt="anagram.gif" width="140" /></a>
 </p>
 
-## Languages, Technologies, and Tools
+---
 
-<p>
+### Languages, Technologies, and Tools
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html logo" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css logo" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript logo" width="36" height="36" />
@@ -55,17 +59,21 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" alt="sublime-text logo" width="36" height="36" />
 </p>
 
-## ⚡ Recent GitHub Activity
+---
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## Now Playing
+### Now Playing
 
 <p align="center">
   <a href="https://open.spotify.com/user/rhaziz" title="My Spotify Profile"><img src="https://novatorem.rivenirvana.vercel.app/api/spotify" alt="spotify player" width="54%" /></a>
   <a href="https://dinoswords.gg/" title="Click Me ;)"><img src="https://github.com/rivenirvana/rivenirvana/raw/master/img/dino.gif" alt="dino.gif" width="40%" height="132" /></a>
 </p>
+
+---
+
+### ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
