@@ -1,28 +1,4 @@
-<head>
-<style>
-body {
-  width: 100%;
-  padding: 0;
-  border: 0;
-  margin: 0;
-}
-div {
-  display: block;
-  width: 100%
-}
-#stats {
-  white-space: nowrap;
-}
-.stats-panel {
-  display: inline-block;
-  width: 50%;
-}
-.stats-panel > img {
-  display: block;
-  margin: 0 auto;
-}
-</style>
-</head>
+<link href="css/style.css" rel="stylesheet"></link>
 
 <h1 align="center">Hallo 👋, I'm Arvin 👨‍💻</h1>
 <h2 align="center">~some relatable, inspiring, piece of text~</h2>
