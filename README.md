@@ -63,8 +63,8 @@
 ## Now Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/user/rhaziz" title="My Spotify Profile"><img src="https://novatorem.rivenirvana.vercel.app/api/spotify" alt="spotify player" /></a>
-  <a href="https://dinoswords.gg/" title="Click Me ;)"><img src="https://github.com/rivenirvana/rivenirvana/raw/master/img/dino.gif" alt="dino.gif" width="390" /></a>
+  <a href="https://open.spotify.com/user/rhaziz" title="My Spotify Profile"><img src="https://novatorem.rivenirvana.vercel.app/api/spotify" alt="spotify player" width="54%" /></a>
+  <a href="https://dinoswords.gg/" title="Click Me ;)"><img src="https://github.com/rivenirvana/rivenirvana/raw/master/img/dino.gif" alt="dino.gif" width="40%" height="132" /></a>
 </p>
 
 ---
