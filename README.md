@@ -10,7 +10,17 @@
 
 ---
 
-### About Me
+<h3 align="center">📫 How to reach me 💬</h3>
+
+<p align="center">
+  <a href="mailto:acverain@up.edu.ph" title="acverain@up.edu.ph"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rive.nirvana@protonmail.com" title="rive.nirvana@protonmail.com"><img src="https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/524919078473826324" title="@Rhaziz#7606"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+### 😄 Personal
 
 - 👨‍💻 I’m currently 🔭 working on and 🌱 learning about:
   - Discord bots and non-blockable web scraping ([discord.js](https://discord.js.org/), [Selenium](https://www.selenium.dev/))
@@ -18,21 +28,17 @@
   - Random open source projects
   - This _kewl_ [GitHub profile feature](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
   - And everything else in between
-- 📫 How to reach me:
-  - **Gmail**: [acverain@up.edu.ph](mailto:acverain@up.edu.ph)
-  - **ProtonMail**: [rive.nirvana@protonmail.com](mailto:rive.nirvana@protonmail.com)
-  - **Discord**: [**Rhaziz**#7606](https://discordapp.com/users/524919078473826324)
 - ✨ Fun facts:
   - [**1 kg of steel weighs the same as 1 kg of feathers**](https://www.youtube.com/watch?v=uH0hikcwjIA)
-  - My GitHub username is an anagram of my given name and surname
+  - My GitHub username is an anagram of my given name and surname. Yes, it does have a meaning. No, I feel too embarrassed to put it here, so you're gonna have to search it for yourself if you want to.
 
 <p align="center">
-  <a href"#" title="rivenirvana"></a><img src="https://github.com/rivenirvana/rivenirvana/raw/master/img/anagram.gif" alt="anagram.gif" width="140" /></a>
+  <a href"#" title="rivenirvana"><img src="https://github.com/rivenirvana/rivenirvana/raw/master/img/anagram.gif" alt="anagram.gif" width="140" /></a>
 </p>
 
 ---
 
-### Languages, Technologies, and Tools
+### 🧰 Languages, Technologies, and Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html logo" width="36" height="36" />
@@ -50,10 +56,12 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"  alt="eslint logo" width="36" height="36"  />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git logo" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github logo" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java logo" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android logo" width="36" height="36"  />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="36" height="36"  />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux logo" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="terminal logo" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code logo" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" alt="sublime-text logo" width="36" height="36" />
@@ -61,16 +69,19 @@
 
 ---
 
-### Now Playing
+### 🎶 Now Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/user/rhaziz" title="My Spotify Profile"><img src="https://novatorem.rivenirvana.vercel.app/api/spotify" alt="spotify player" width="54%" /></a>
-  <a href="https://dinoswords.gg/" title="Click Me ;)"><img src="https://github.com/rivenirvana/rivenirvana/raw/master/img/dino.gif" alt="dino.gif" width="40%" height="132" /></a>
+  <a href="https://open.spotify.com/user/rhaziz" title="My Spotify profile"><img src="https://novatorem.rivenirvana.vercel.app/api/spotify" alt="spotify player" width="51%" height="100%" /></a>
+  <a href="https://dinoswords.gg/" title="Click to play this game but on steroids"><img src="https://github.com/rivenirvana/rivenirvana/raw/master/img/dino.gif" alt="dino.gif" width="42%" height="100%" /></a>
 </p>
 
 ---
 
-### ⚡ Recent GitHub Activity
+### ⚡ Activity
+
+<details>
+  <summary> Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake/issues/17) in [David-vz/MonsterHunterPortable3rdHDRemake](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake)
@@ -78,6 +89,8 @@
 3. 🗣 Commented on [#17](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake/issues/17) in [David-vz/MonsterHunterPortable3rdHDRemake](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake)
 4. 🗣 Commented on [#1134](https://github.com//home-sweet-gnome/dash-to-panel/issues/1134) in [home-sweet-gnome/dash-to-panel](https://github.com//home-sweet-gnome/dash-to-panel)
 <!--END_SECTION:activity-->
+
+</details>
 
 ---
 
