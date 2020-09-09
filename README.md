@@ -22,12 +22,14 @@
 
 ### 😄 Personal
 
-- 👨‍💻 I’m currently 🔭 working on and 🌱 learning about:
+- :octocat: I’m currently 🔭 working on and 🌱 learning about:
   - Discord bots and non-blockable web scraping ([discord.js](https://discord.js.org/), [Selenium](https://www.selenium.dev/))
   - Superscaling images and game textures via machine learning ([ESRGAN](https://github.com/xinntao/ESRGAN), [BasicSR](https://github.com/xinntao/BasicSR))
   - Random open source projects of software I use
   - This _kewl_ [GitHub profile feature](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
   - And everything else in between
+- 🗨️ Ask me anything about:
+  - Open source, Linux, and everything InfoSec
 - ✨ Fun fact:
   - My GitHub username is an anagram of my given name and surname. Yes, it does have a meaning. No, I feel too embarrassed to put it here, so you're gonna have to search it for yourself if you want to.
 
