@@ -4,8 +4,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/rivenirvana/github-readme-stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api?username=rivenirvana&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width=460" height="180" alt="github stats" /></a>
-  <a href="https://github.com/rivenirvana/github-readme-stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api/top-langs?username=rivenirvana&layout=compact&hide_border=true&theme=tokyonight" width="370" height="180" alt="top languages" /></a>
+  <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api?username=rivenirvana&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width=460" height="180" alt="github stats" /></a>
+  <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api/top-langs?username=rivenirvana&layout=compact&hide_border=true&theme=tokyonight" width="370" height="180" alt="top languages" /></a>
 </p>
 
 ---
@@ -25,11 +25,10 @@
 - 👨‍💻 I’m currently 🔭 working on and 🌱 learning about:
   - Discord bots and non-blockable web scraping ([discord.js](https://discord.js.org/), [Selenium](https://www.selenium.dev/))
   - Superscaling images and game textures via machine learning ([ESRGAN](https://github.com/xinntao/ESRGAN), [BasicSR](https://github.com/xinntao/BasicSR))
-  - Random open source projects
+  - Random open source projects of software I use
   - This _kewl_ [GitHub profile feature](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
   - And everything else in between
-- ✨ Fun facts:
-  - [**1 kg of steel weighs the same as 1 kg of feathers**](https://www.youtube.com/watch?v=uH0hikcwjIA)
+- ✨ Fun fact:
   - My GitHub username is an anagram of my given name and surname. Yes, it does have a meaning. No, I feel too embarrassed to put it here, so you're gonna have to search it for yourself if you want to.
 
 <p align="center">
@@ -73,15 +72,15 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/rhaziz" title="My Spotify profile"><img src="https://novatorem.rivenirvana.vercel.app/api/spotify" alt="spotify player" width="51%" height="100%" /></a>
-  <a href="https://dinoswords.gg/" title="Click to play this game but on steroids"><img src="https://github.com/rivenirvana/rivenirvana/raw/master/img/dino.gif" alt="dino.gif" width="42%" height="100%" /></a>
+  <a href="https://dinoswords.gg/" title="Play this game but on steroids"><img src="https://github.com/rivenirvana/rivenirvana/raw/master/img/dino.gif" alt="dino.gif" width="42%" height="100%" /></a>
 </p>
 
 ---
 
-### ⚡ Activity
+### ⚡ Recent Activity
 
 <details>
-  <summary> Recent GitHub Activity</summary>
+  <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake/issues/17) in [David-vz/MonsterHunterPortable3rdHDRemake](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake)
