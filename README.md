@@ -99,6 +99,8 @@
 
 ---
 
+- This profile readme is generated with the use of [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter).
+
 <!--
 **rivenirvana/rivenirvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
