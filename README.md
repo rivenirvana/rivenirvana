@@ -1,11 +1,15 @@
 <h1 align="center">Hallo 👋, I'm Arvin 👨‍💻</h1>
 <h3 align="center">~insert some relatable, inspiring, and motivational piece of text here~</h3>
 
+<p align="">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=rivenirvana&color=blue&style=flat&label=Visitors" alt="profile views"></a>
+</p>
+
 ---
 
 <p align="center">
-  <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api?username=rivenirvana&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width=500" height="200" alt="github stats" /></a>
-  <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api/top-langs?username=rivenirvana&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" width="320" height="200" alt="top languages" /></a>
+  <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api?username=rivenirvana&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width=60.40%" height="220" alt="github stats" /></a>
+  <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api/top-langs?username=rivenirvana&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" width="39%" height="220" alt="top languages" /></a>
 </p>
 
 ---
@@ -20,9 +24,9 @@
 
 ---
 
-### 😄 Personal
+### :octocat: Personal
 
-- :octocat: I’m currently 🔭 working on and 🌱 learning about:
+- 🚀 I’m currently 🔭 working on and 🌱 learning about:
   - Discord bots and non-blockable web scraping ([discord.js](https://discord.js.org/), [Selenium](https://www.selenium.dev/))
   - Superscaling images and game textures via machine learning ([ESRGAN](https://github.com/xinntao/ESRGAN), [BasicSR](https://github.com/xinntao/BasicSR))
   - Random open source projects of software I use
