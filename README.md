@@ -33,7 +33,7 @@
   - This _kewl_ [GitHub profile feature](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
   - And everything else in between
 - 🗨️ Ask me anything about:
-  - Open source, Linux, and everything InfoSec
+  - Open source, Linux, InfoSec, and everything tech
 - ✨ Fun fact:
   - My GitHub username is an anagram of my given name and surname. Yes, it does have a meaning. No, I feel too embarrassed to put it here, so you're gonna have to search it for yourself if you want to.
 
@@ -99,7 +99,12 @@
 
 ---
 
-- This profile readme is generated with the use of [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter).
+This profile readme is generated with the use of:
+
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- [novatorem/novatorem](https://github.com/novatorem/novatorem)
 
 <!--
 **rivenirvana/rivenirvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
