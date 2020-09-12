@@ -1,11 +1,11 @@
 <h1 align="center">Hallo 👋, I'm Arvin 👨‍💻</h1>
 <h3 align="center">~insert some relatable, inspiring, and motivational piece of text here~</h3>
 
-<p align="">
+---
+
+<p align="left">
   <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=rivenirvana&color=blue&style=flat&label=Visitors" alt="profile views"></a>
 </p>
-
----
 
 <p align="center">
   <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api?username=rivenirvana&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width=60.40%" height="220" alt="github stats" /></a>
