@@ -4,8 +4,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api?username=rivenirvana&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width=460" height="180" alt="github stats" /></a>
-  <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api/top-langs?username=rivenirvana&layout=compact&hide_border=true&theme=tokyonight" width="370" height="180" alt="top languages" /></a>
+  <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api?username=rivenirvana&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width=500" height="200" alt="github stats" /></a>
+  <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api/top-langs?username=rivenirvana&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" width="320" height="200" alt="top languages" /></a>
 </p>
 
 ---
