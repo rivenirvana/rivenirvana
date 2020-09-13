@@ -89,10 +89,10 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake/issues/17) in [David-vz/MonsterHunterPortable3rdHDRemake](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake)
+1. 🗣 Commented on [#460](https://github.com//anuraghazra/github-readme-stats/issues/460) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
 2. 🗣 Commented on [#17](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake/issues/17) in [David-vz/MonsterHunterPortable3rdHDRemake](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake)
 3. 🗣 Commented on [#17](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake/issues/17) in [David-vz/MonsterHunterPortable3rdHDRemake](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake)
-4. 🗣 Commented on [#1134](https://github.com//home-sweet-gnome/dash-to-panel/issues/1134) in [home-sweet-gnome/dash-to-panel](https://github.com//home-sweet-gnome/dash-to-panel)
+4. 🗣 Commented on [#17](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake/issues/17) in [David-vz/MonsterHunterPortable3rdHDRemake](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake)
 <!--END_SECTION:activity-->
 
 </details>
