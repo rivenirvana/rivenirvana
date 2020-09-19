@@ -89,8 +89,8 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#460](https://github.com//anuraghazra/github-readme-stats/issues/460) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#17](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake/issues/17) in [David-vz/MonsterHunterPortable3rdHDRemake](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake)
+1. 🗣 Commented on [#478](https://github.com//anuraghazra/github-readme-stats/issues/478) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+2. 🗣 Commented on [#460](https://github.com//anuraghazra/github-readme-stats/issues/460) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
 3. 🗣 Commented on [#17](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake/issues/17) in [David-vz/MonsterHunterPortable3rdHDRemake](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake)
 4. 🗣 Commented on [#17](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake/issues/17) in [David-vz/MonsterHunterPortable3rdHDRemake](https://github.com//David-vz/MonsterHunterPortable3rdHDRemake)
 <!--END_SECTION:activity-->
