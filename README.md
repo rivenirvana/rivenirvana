@@ -7,8 +7,6 @@
   <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=rivenirvana&color=blue&style=flat&label=Visitors" alt="profile views"></a>
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=43519644)
-
 <p align="center">
   <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api?username=rivenirvana&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width=60.40%" height="220" alt="github stats" /></a>
   <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api/top-langs?username=rivenirvana&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" width="39%" height="220" alt="top languages" /></a>
@@ -97,6 +95,8 @@ This profile readme is generated with the use of:
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 - [novatorem/novatorem](https://github.com/novatorem/novatorem)
+
+![](https://hit.yhype.me/github/profile?user_id=43519644)
 
 <!--
 **rivenirvana/rivenirvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
