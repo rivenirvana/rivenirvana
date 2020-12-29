@@ -1,5 +1,5 @@
 <h1 align="center">Hallo 👋, I'm Arvin 👨‍💻</h1>
-<h3 align="center">~~</h3>
+<h3 align="center">I code stuff, I guess.</h3>
 
 ---
 
@@ -30,6 +30,7 @@
   - **Discord bots** and **non-blockable web scraping** ([discord.js](https://discord.js.org/), [Selenium](https://www.selenium.dev/))
   - **Superscaling images and game textures** via machine learning ([ESRGAN](https://github.com/xinntao/ESRGAN), [BasicSR](https://github.com/xinntao/BasicSR))
   - **RPM packaging** via [COPR](https://copr.fedorainfracloud.org/coprs/rivenirvana/)
+  - Workflow automation
   - Random open source projects of software I use
   - And everything else in between
 - 🗨️ Ask me anything about:
