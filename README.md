@@ -78,10 +78,10 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#771](https://github.com/pop-os/shell/issues/771) in [pop-os/shell](https://github.com/pop-os/shell)
+1. 🗣 Commented on [#812](https://github.com/pop-os/shell/issues/812) in [pop-os/shell](https://github.com/pop-os/shell)
 2. 🗣 Commented on [#771](https://github.com/pop-os/shell/issues/771) in [pop-os/shell](https://github.com/pop-os/shell)
-3. 🗣 Commented on [#1464](https://github.com/sindresorhus/caprine/issues/1464) in [sindresorhus/caprine](https://github.com/sindresorhus/caprine)
-4. 🗣 Commented on [#17](https://github.com/David-vz/MonsterHunterPortable3rdHDRemake/issues/17) in [David-vz/MonsterHunterPortable3rdHDRemake](https://github.com/David-vz/MonsterHunterPortable3rdHDRemake)
+3. 🗣 Commented on [#771](https://github.com/pop-os/shell/issues/771) in [pop-os/shell](https://github.com/pop-os/shell)
+4. 🗣 Commented on [#1464](https://github.com/sindresorhus/caprine/issues/1464) in [sindresorhus/caprine](https://github.com/sindresorhus/caprine)
 <!--END_SECTION:activity-->
 
 </details>
