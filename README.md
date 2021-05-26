@@ -78,10 +78,10 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#221](https://github.com/Soundux/Soundux/issues/221) in [Soundux/Soundux](https://github.com/Soundux/Soundux)
-2. 💪 Opened PR [#221](https://github.com/Soundux/Soundux/pull/221) in [Soundux/Soundux](https://github.com/Soundux/Soundux)
-3. ❌ Closed PR [#1](https://github.com/rivenirvana/rivenirvana/pull/1) in [rivenirvana/rivenirvana](https://github.com/rivenirvana/rivenirvana)
-4. 🗣 Commented on [#1464](https://github.com/sindresorhus/caprine/issues/1464) in [sindresorhus/caprine](https://github.com/sindresorhus/caprine)
+1. 💪 Opened PR [#223](https://github.com/Soundux/Soundux/pull/223) in [Soundux/Soundux](https://github.com/Soundux/Soundux)
+2. 🗣 Commented on [#221](https://github.com/Soundux/Soundux/issues/221) in [Soundux/Soundux](https://github.com/Soundux/Soundux)
+3. 💪 Opened PR [#221](https://github.com/Soundux/Soundux/pull/221) in [Soundux/Soundux](https://github.com/Soundux/Soundux)
+4. ❌ Closed PR [#1](https://github.com/rivenirvana/rivenirvana/pull/1) in [rivenirvana/rivenirvana](https://github.com/rivenirvana/rivenirvana)
 <!--END_SECTION:activity-->
 
 </details>
