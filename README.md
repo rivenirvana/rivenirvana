@@ -78,9 +78,9 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#221](https://github.com/Soundux/Soundux/pull/221) in [Soundux/Soundux](https://github.com/Soundux/Soundux)
-2. ❌ Closed PR [#1](https://github.com/rivenirvana/rivenirvana/pull/1) in [rivenirvana/rivenirvana](https://github.com/rivenirvana/rivenirvana)
-3. 🗣 Commented on [#771](https://github.com/pop-os/shell/issues/771) in [pop-os/shell](https://github.com/pop-os/shell)
+1. 🗣 Commented on [#221](https://github.com/Soundux/Soundux/issues/221) in [Soundux/Soundux](https://github.com/Soundux/Soundux)
+2. 💪 Opened PR [#221](https://github.com/Soundux/Soundux/pull/221) in [Soundux/Soundux](https://github.com/Soundux/Soundux)
+3. ❌ Closed PR [#1](https://github.com/rivenirvana/rivenirvana/pull/1) in [rivenirvana/rivenirvana](https://github.com/rivenirvana/rivenirvana)
 4. 🗣 Commented on [#1464](https://github.com/sindresorhus/caprine/issues/1464) in [sindresorhus/caprine](https://github.com/sindresorhus/caprine)
 <!--END_SECTION:activity-->
 
