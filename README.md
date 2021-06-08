@@ -78,10 +78,10 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#169](https://github.com/daniruiz/flat-remix/issues/169) in [daniruiz/flat-remix](https://github.com/daniruiz/flat-remix)
-2. 💪 Opened PR [#223](https://github.com/Soundux/Soundux/pull/223) in [Soundux/Soundux](https://github.com/Soundux/Soundux)
-3. 🗣 Commented on [#221](https://github.com/Soundux/Soundux/issues/221) in [Soundux/Soundux](https://github.com/Soundux/Soundux)
-4. 💪 Opened PR [#221](https://github.com/Soundux/Soundux/pull/221) in [Soundux/Soundux](https://github.com/Soundux/Soundux)
+1. 🗣 Commented on [#214](https://github.com/patriciogonzalezvivo/glslViewer/issues/214) in [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)
+2. 🗣 Commented on [#169](https://github.com/daniruiz/flat-remix/issues/169) in [daniruiz/flat-remix](https://github.com/daniruiz/flat-remix)
+3. 💪 Opened PR [#223](https://github.com/Soundux/Soundux/pull/223) in [Soundux/Soundux](https://github.com/Soundux/Soundux)
+4. 🗣 Commented on [#221](https://github.com/Soundux/Soundux/issues/221) in [Soundux/Soundux](https://github.com/Soundux/Soundux)
 <!--END_SECTION:activity-->
 
 </details>
