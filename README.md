@@ -78,10 +78,10 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#174](https://github.com/daniruiz/flat-remix/pull/174) in [daniruiz/flat-remix](https://github.com/daniruiz/flat-remix)
-2. ❌ Closed PR [#1](https://github.com/rivenirvana/flat-remix/pull/1) in [rivenirvana/flat-remix](https://github.com/rivenirvana/flat-remix)
-3. 💪 Opened PR [#1](https://github.com/rivenirvana/flat-remix/pull/1) in [rivenirvana/flat-remix](https://github.com/rivenirvana/flat-remix)
-4. 🗣 Commented on [#169](https://github.com/daniruiz/flat-remix/issues/169) in [daniruiz/flat-remix](https://github.com/daniruiz/flat-remix)
+1. 🗣 Commented on [#101](https://github.com/aunetx/blur-my-shell/issues/101) in [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell)
+2. 💪 Opened PR [#174](https://github.com/daniruiz/flat-remix/pull/174) in [daniruiz/flat-remix](https://github.com/daniruiz/flat-remix)
+3. ❌ Closed PR [#1](https://github.com/rivenirvana/flat-remix/pull/1) in [rivenirvana/flat-remix](https://github.com/rivenirvana/flat-remix)
+4. 💪 Opened PR [#1](https://github.com/rivenirvana/flat-remix/pull/1) in [rivenirvana/flat-remix](https://github.com/rivenirvana/flat-remix)
 <!--END_SECTION:activity-->
 
 </details>
